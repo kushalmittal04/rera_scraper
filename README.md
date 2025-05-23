@@ -23,3 +23,4 @@ This Python script uses Selenium to scrape real estate project details from the 
 2. Install dependencies:
    ```bash
    pip install selenium
+   python main.py
